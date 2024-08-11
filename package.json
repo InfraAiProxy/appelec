@@ -1,0 +1,23 @@
+{
+  "name": "appelec",
+  "version": "1.0.0",
+  "description": "Tutorial Elec",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfraAiProxy/appelec.git"
+  },
+  "author": "proxy777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfraAiProxy/appelec/issues"
+  },
+  "homepage": "https://github.com/InfraAiProxy/appelec#readme",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  }
+}
